@@ -52,3 +52,44 @@ ls
 ```
 
 ---
+
+## 5. Locating the Third Task
+
+![](Screens/step5.jpg)
+
+```bash
+cat README.txt
+find . -iname level-3
+cd gBT5u0vLT5/
+ls
+
+```
+
+---
+
+## 6. Locating the Forth Task
+
+![](Screens/step6.jpg)
+
+```bash
+tr -xf level-3
+ls
+cd level-3/
+ls
+cat X6lkChFKsj
+
+```
+
+---
+
+## 7. Getting the Final Result
+
+![](Screens/step7.jpg)
+
+```bash
+find . -size 73c
+cd m7lRDpRTUJ
+cat xVMvVOKNW5
+```
+
+---
